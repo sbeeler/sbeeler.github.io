@@ -2,10 +2,45 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching is a large part of my PhD and of my passion for pursuing academia. Here's what I've been involved in since starting grad school
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### 2019-2020
 
-Organize your courses by years, topics, or universities, however you like!
+BE/Bi 103a. [Introduction to Data analysis in the Biological Sciences](http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2020b/) with [Justin Bois](http://bois.caltech.edu/index.html)
+
+Bi/Ge 105. [Evolution](http://www.rpgroup.caltech.edu/bige105/) with [Rob Phillips](http://www.rpgroup.caltech.edu/) and
+[Victoria Orphan](http://orphanlab.caltech.edu/)
+
+<p>&nbsp;</p>
+
+### 2018-2019
+BE 262. [Physical Biology Bootcamp](http://www.rpgroup.caltech.edu/be262/)
+with [Rob Phillips](http://www.rpgroup.caltech.edu/)
+
+Physical Biology of the Cell at [GIST](https://www.gist.ac.kr/en/) in South Korea with [Rob Phillips](http://www.rpgroup.caltech.edu/)
+
+[Physical Biology of the Cell](http://www.rpgroup.caltech.edu/mbl_pboc/) at [The Marine
+Biological Laboratory](https://www.mbl.edu/) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
+and [Hernan Garcia](https://mcb.berkeley.edu/labs/garcia/)
+
+<p>&nbsp;</p>
+
+### 2017-2018
+DNA Bootcamp for the [Caltech Alumni trip to the Galápagos](https://events.alumni.caltech.edu/products/galapagos-1) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
+
+BE 262. [Physical Biology Bootcamp](http://www.rpgroup.caltech.edu/be262/2016/)
+with [Rob Phillips](http://www.rpgroup.caltech.edu/)
+
+<p>&nbsp;</p>
+
+### 2016-2017
+DNA Bootcamp for the [Caltech Alumni trip to New Zealand](https://events.alumni.caltech.edu/products/travel-new-zealand-with-rob-phillips) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
+
+Bi 1. [Principles of Biology](http://bi1.caltech.edu/) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
+
+<p>&nbsp;</p>
+
+### 2015-2016
+Bi 8. [Introduction to Molecular Biology: Regulation of Gene Expression ](http://www.its.caltech.edu/~bi8/) with [Ellen Rothenberg](http://bbe.divisions.caltech.edu/people/ellen-rothenberg)
