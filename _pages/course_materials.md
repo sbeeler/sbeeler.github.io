@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: UNDER CONSTRUCTION
+title: course materials
+permalink: /course_materials/
+description: Syllabi and course content I have created while teaching
 nav: true
 ---
 

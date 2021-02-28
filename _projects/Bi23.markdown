@@ -1,0 +1,43 @@
+---
+layout: page
+title: At the Intersection of Race and Biology
+description: Course syllabus
+img:
+importance: 1
+---
+
+## Bi23 Tutorial, Winter 2021
+
+## Course description
+
+Presently all STEM fields must contend with the lack of racial diversity found among their highest echelons, but the field of Biology is uniquely poised among the STEM fields as explicitly contributing to the very concept of race and perpetuating societal consequences. Given this pernicious role that biology can play, this discussion course will delve into the interface of biology and race. Our discussions will begin with an exploration of HeLa cells, and importantly, the Black woman Henrietta Lacks from whom these cells were taken. The remainder of the course will explore student-led vignettes of other ways in which race has impacted biological studies and vice versa.
+
+## Learning Outcomes
+
+While a single 3-unit course obviously cannot do justice to the entire breadth of this topic, the hope is that students will leave this course with more awareness and a critical eye toward the ways their own field can contribute to the racial injustices seen around us. Specifically after taking this course, students will be equipped to critically engage with topics at the interface of biology and race, as well as be empowered to actively seek out this information wether or not their future institution or employers actively promote such topics.
+
+## Assessment Rubric
+- Class attendance and active participation: 40%
+- Pre-class written reflections/discussions: 30%
+- Proposals for individual topics of exploration: 10%
+- Leading a week on chosen topic: 20%
+
+## Academic Integrity
+As always, Caltech’s Honor Code of “No member of the Caltech community shall take unfair advantage of any other member of the Caltech community” applies. As a largely discussion-based course, concerns about plagiarism are minimal, but my main focus will be to maintain a respectful space for discussion. When written content is required for the course, your responses must obviously be in your own words and not from other sources unless cited.
+
+## Students with Documented Disabilities
+Students who may need an academic accommodation based on the impact of a disability must initiate the request with Caltech Accessibility Services for Students (CASS). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should [contact CASS](http://cass.caltech.edu/) as soon as possible, since timely notice is needed to coordinate accommodations.
+
+## Course schedule
+
+|   Week  |   Date    |   Topic                                                               |   Reading / Viewing                                  |
+|---------|-----------|-----------------------------------------------------------------------|------------------------------------------------------|
+|   0     |   Jan 6   |   Organizational Meeting                                              |                                                      |
+|   1     |   Jan 12  |   Decoding Diversity session with Monique Thomas from CCID            |   Stolen Breaths                                     |
+|   2     |   Jan 19  |   Introduction to HeLa cells                                          |   Watch The Immortal Life of Henrietta Lacks         |
+|   3     |   Jan 26  |   HeLa cells response and fallout                                     |   Passages from Henrietta Lacks: The Untold Story    |
+|   4     |   Feb 2   |   Eugenics at Caltech                                                 |   Watch town hall put on by Caltech for Black Lives  |
+|   5     |   Feb 9   |   Exploring how race is defined and how/if it is informed by biology  |                                                      |
+|   6     |   Feb 16  |   Student proposals for two/three topics to explore further together  |                                                      |
+|   7     |   Feb 23  |   1st student-led discussions                                         |                                                      |
+|   8     |   Mar 2   |   2nd student-led discussions                                         |                                                      |
