@@ -4,6 +4,7 @@ title: Code
 description: Coding tutorials I've put together for various courses
 img:
 importance: 1
+permalink: /courses/code
 ---
 
 Numerically integrating the differential equation for exponential growth -- [html]({{ site.baseurl}}/assets/code/forward_euler.html)
