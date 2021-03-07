@@ -8,13 +8,13 @@ nav: true
 
 ### 2020-2021
 
-- Bi23 Tutorial. [At the Intersection of Biology and Race](https://sbeeler.github.io/courses/Bi23) designed and led by myself
+- Bi23 tutorial. [At the Intersection of Biology and Race](https://sbeeler.github.io/courses/Bi23) designed and led by myself
 
 - BE/APh 161. [Physical Biology of the Cell](http://www.rpgroup.caltech.edu/aph161/) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
 
 ### 2019-2020
 
-- BE/Bi 103a. [Introduction to Data analysis in the Biological Sciences](http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2020b) with [Justin Bois](http://bois.caltech.edu/index.html)
+- BE/Bi 103a. [Introduction to Data analysis in the Biological Sciences](http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2019a/index.html) with [Justin Bois](http://bois.caltech.edu/index.html)
 
 - Bi/Ge 105. [Evolution](http://www.rpgroup.caltech.edu/bige105/) with [Rob Phillips](http://www.rpgroup.caltech.edu/) and
 [Victoria Orphan](http://orphanlab.caltech.edu/)
@@ -23,7 +23,7 @@ nav: true
 - BE 262. [Physical Biology Bootcamp](http://www.rpgroup.caltech.edu/be262/)
 with [Rob Phillips](http://www.rpgroup.caltech.edu/)
 
-- Physical Biology of the Cell at [GIST](https://www.gist.ac.kr/en/) in South Korea with [Rob Phillips](http://www.rpgroup.caltech.edu/)
+- [Physical Biology of the Cell](https://www.rpgroup.caltech.edu/gist_pboc_2019/) at [GIST](https://www.gist.ac.kr/en/) in South Korea with [Rob Phillips](http://www.rpgroup.caltech.edu/)
 
 - [Physical Biology of the Cell](http://www.rpgroup.caltech.edu/mbl_pboc/) at [The Marine
 Biological Laboratory](https://www.mbl.edu/) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
