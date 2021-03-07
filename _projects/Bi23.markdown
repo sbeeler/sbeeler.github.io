@@ -1,6 +1,6 @@
 ---
 layout: page
-title: At the Intersection of Race and Biology
+title: At the Intersection of Biology and Race
 description: Course syllabus
 img:
 importance: 1
