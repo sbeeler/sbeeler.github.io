@@ -4,7 +4,6 @@ title: At the Intersection of Biology and Race
 description: Course syllabus
 img:
 importance: 1
-permalink: /courses/Bi23
 ---
 
 ## Bi23 Tutorial, Winter 2021
