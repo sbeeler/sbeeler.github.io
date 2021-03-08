@@ -2,7 +2,7 @@
 layout: page
 title: Code
 description: Coding tutorials I've put together for various courses
-img:
+img: /assets/img/code.jpg
 importance: 1
 ---
 
